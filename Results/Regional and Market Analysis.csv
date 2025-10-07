@@ -1,0 +1,57 @@
+State,Region,City,Total_Sales,Tahun
+California,West,"San Francisco",870939,2020
+Colorado,West,Denver,2099661,2020
+Florida,Southeast,Miami,3160090,2020
+Minnesota,Midwest,Minneapolis,737807,2020
+Nevada,West,"Las Vegas",2085854,2020
+"New York",Northeast,"New York",3980134,2020
+Pennsylvania,Northeast,Philadelphia,94848,2020
+Texas,South,Houston,2545692,2020
+Washington,West,Seattle,2633075,2020
+Alabama,South,Birmingham,1763350,2021
+Alaska,West,Anchorage,1475313,2021
+Arizona,West,Phoenix,1578229,2021
+Arkansas,South,"Little Rock",1263941,2021
+California,West,"Los Angeles",2563500,2021
+California,West,"San Francisco",2582985,2021
+Connecticut,Northeast,Hartford,1157352,2021
+Delaware,Northeast,Wilmington,1229846,2021
+Florida,Southeast,Orlando,2768290,2021
+Georgia,Southeast,Atlanta,1899750,2021
+Hawaii,West,Honolulu,2228245,2021
+Idaho,West,Boise,1927690,2021
+Illinois,Midwest,Chicago,979752,2021
+Indiana,Midwest,Indianapolis,883624,2021
+Iowa,Midwest,"Des Moines",742403,2021
+Kansas,Midwest,Wichita,997289,2021
+Kentucky,Southeast,Louisville,1007284,2021
+Louisiana,South,"New Orleans",2375082,2021
+Maine,Northeast,Portland,919595,2021
+Maryland,Northeast,Baltimore,775808,2021
+Massachusetts,Northeast,Boston,1107696,2021
+Michigan,Midwest,Detroit,1862546,2021
+Mississippi,South,Jackson,1559176,2021
+Missouri,Midwest,"St. Louis",968323,2021
+Montana,Midwest,Billings,1571090,2021
+Nebraska,Midwest,Omaha,592907,2021
+"New Hampshire",Northeast,Manchester,1641171,2021
+"New Jersey",Northeast,Newark,993430,2021
+"New Mexico",West,Albuquerque,1986512,2021
+"New York",Northeast,Albany,2442784,2021
+"North Carolina",Southeast,Charlotte,2395657,2021
+"North Dakota",Midwest,Fargo,773557,2021
+Ohio,Midwest,Columbus,1848459,2021
+Oklahoma,South,"Oklahoma City",1062080,2021
+Oregon,West,Portland,2134969,2021
+Pennsylvania,Northeast,Philadelphia,940910,2021
+"Rhode Island",Northeast,Providence,844687,2021
+"South Carolina",Southeast,Charleston,2928565,2021
+"South Dakota",Midwest,"Sioux Falls",849562,2021
+Tennessee,South,Knoxville,1806748,2021
+Texas,South,Dallas,2090292,2021
+Utah,West,"Salt Lake City",969652,2021
+Vermont,Northeast,Burlington,1435306,2021
+Virginia,Southeast,Richmond,2157510,2021
+"West Virginia",Northeast,Charleston,1068920,2021
+Wisconsin,Midwest,Milwaukee,772751,2021
+Wyoming,West,Cheyenne,1857754,2021

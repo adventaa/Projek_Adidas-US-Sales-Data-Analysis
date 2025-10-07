@@ -1,0 +1,107 @@
+Retailer,Region,State
+"Foot Locker",Northeast,"New York"
+Walmart,Northeast,"New York"
+"Sports Direct",Northeast,"New York"
+"Sports Direct",South,Texas
+Walmart,South,Texas
+"West Gear",South,Texas
+"West Gear",West,California
+Kohl's,West,California
+"Foot Locker",West,California
+"Foot Locker",Midwest,Illinois
+"Sports Direct",Midwest,Illinois
+"Foot Locker",South,Texas
+"Foot Locker",Northeast,Pennsylvania
+"West Gear",Northeast,Pennsylvania
+"West Gear",West,Nevada
+"West Gear",West,Colorado
+"West Gear",West,Washington
+"Foot Locker",West,Washington
+"Foot Locker",Southeast,Florida
+"West Gear",Southeast,Florida
+"Sports Direct",Southeast,Florida
+"Foot Locker",Midwest,Minnesota
+Kohl's,Midwest,Minnesota
+Kohl's,Midwest,Montana
+"Sports Direct",Midwest,Montana
+"Sports Direct",South,Tennessee
+"Foot Locker",South,Tennessee
+"Foot Locker",Midwest,Nebraska
+"Sports Direct",Midwest,Nebraska
+"Sports Direct",South,Alabama
+Amazon,South,Alabama
+Amazon,Northeast,Maine
+"West Gear",Northeast,Maine
+Amazon,West,Alaska
+"Foot Locker",West,Alaska
+"Foot Locker",West,Hawaii
+Walmart,West,Hawaii
+"Sports Direct",West,Hawaii
+Walmart,Southeast,Florida
+"West Gear",Northeast,"New York"
+Kohl's,Northeast,"New York"
+Kohl's,West,Wyoming
+"Foot Locker",West,Wyoming
+"Foot Locker",Southeast,Virginia
+"Sports Direct",Southeast,Virginia
+"Sports Direct",Midwest,Michigan
+"Foot Locker",Midwest,Michigan
+"Foot Locker",Midwest,Missouri
+"West Gear",Midwest,Missouri
+"West Gear",West,Utah
+"West Gear",West,Oregon
+"West Gear",South,Louisiana
+"Foot Locker",South,Louisiana
+"Foot Locker",West,Idaho
+"West Gear",West,Idaho
+"Sports Direct",West,Idaho
+"Foot Locker",West,Arizona
+Kohl's,West,Arizona
+Kohl's,West,"New Mexico"
+"Sports Direct",West,"New Mexico"
+"Sports Direct",Southeast,Georgia
+"Foot Locker",Southeast,Georgia
+"Foot Locker",Southeast,"South Carolina"
+"Sports Direct",Southeast,"South Carolina"
+"Sports Direct",Southeast,"North Carolina"
+Amazon,Southeast,"North Carolina"
+Amazon,Midwest,Ohio
+"West Gear",Midwest,Ohio
+Amazon,Southeast,Kentucky
+"Foot Locker",Southeast,Kentucky
+"Foot Locker",South,Mississippi
+Walmart,South,Mississippi
+"Sports Direct",South,Mississippi
+Walmart,South,Arkansas
+"West Gear",South,Arkansas
+"West Gear",South,Oklahoma
+Kohl's,South,Oklahoma
+Kohl's,Midwest,Kansas
+"Foot Locker",Midwest,Kansas
+"Foot Locker",Midwest,"South Dakota"
+"Sports Direct",Midwest,"South Dakota"
+"Sports Direct",Midwest,"North Dakota"
+"Foot Locker",Midwest,"North Dakota"
+"Foot Locker",Midwest,Iowa
+"West Gear",Midwest,Iowa
+"West Gear",Midwest,Wisconsin
+"West Gear",Midwest,Indiana
+"West Gear",Northeast,"West Virginia"
+"Foot Locker",Northeast,"West Virginia"
+"West Gear",Northeast,Maryland
+"Foot Locker",Northeast,Maryland
+"Sports Direct",Northeast,Maryland
+"Foot Locker",Northeast,Delaware
+Kohl's,Northeast,Delaware
+Kohl's,Northeast,"New Jersey"
+"Sports Direct",Northeast,"New Jersey"
+"Sports Direct",Northeast,Connecticut
+"Foot Locker",Northeast,Connecticut
+"Foot Locker",Northeast,"Rhode Island"
+"Sports Direct",Northeast,"Rhode Island"
+"Sports Direct",Northeast,Massachusetts
+Amazon,Northeast,Massachusetts
+Amazon,Northeast,Vermont
+"West Gear",Northeast,Vermont
+Amazon,Northeast,"New Hampshire"
+"Foot Locker",Northeast,"New Hampshire"
