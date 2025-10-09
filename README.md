@@ -5,7 +5,7 @@
 ---
 # 🧰 Tools
 - SQL (MySQL)
-- Excel
+- Microsoft Excel: Pivot Table
 ---
 # 🎯 Tujuan
 Menganalisa performa penjualan Adidas untuk mendapatkan insight bisnis seperti:
